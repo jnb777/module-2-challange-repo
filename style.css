@@ -1,0 +1,30 @@
+.header {
+background-color: rgb(42, 165, 138);
+}
+
+h1 {
+    display: inline-flex;
+    font-size: 4.5rem;
+}
+
+li {
+    font-size: 3rem;
+    display: inline-flex;
+    vertical-align: baseline;
+    list-style: none;
+    padding: 3rem;
+    margin-top: 2rem;
+    float: right;
+}
+
+.logo {
+    display: flex;
+}
+
+#logo-image {
+    max-width: 100%;
+}
+
+.main-section {
+    display: flex;
+}
